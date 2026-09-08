@@ -4,18 +4,18 @@ Roles no longer active (284). Kept for reference; never deleted.
 
 | Company | Role | Location | Link | Closed because | Last seen |
 | --- | --- | --- | --- | --- | --- |
-| **Microsoft** | Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities | Cairo | [link](https://apply.careers.microsoft.com/careers/job/1970393556866895) | link dead | 2026-09-07 |
-| **Esri** | Software Engineering Internship - Survey123 | Melbourne | [link](https://www.esri.com/careers/5204996007?gh_jid=5204996007) | link dead | 2026-09-07 |
-| **Thales** | Software Engineer Intern - Middleware - IBS | Singapore | [link](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782) | link dead | 2026-09-07 |
-| **GE HealthCare** | Software Engineer Intern | Warsaw | [link](https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Krakow/Software-Engineer-Intern_R4040613) | link dead | 2026-09-07 |
-| **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-09-07 |
-| **Mactores** | Generative AI Engineer - Intern | Mumbai | [link](https://jobs.lever.co/mactores/6ba73d45-b772-455b-92d2-b42544b3f729) | link dead | 2026-09-07 |
-| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | London | [link](https://careers-sig.icims.com/jobs/11005/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-09-07 |
-| **Susquehanna International Group** | Quantitative Research Internship: Summer 2027 | London | [link](https://careers-sig.icims.com/jobs/11007/quantitative-research-internship%3a-summer-2027/job) | link dead | 2026-09-07 |
-| **Mercedes-Benz Tech Innovation** | Intern AI & Data Engineering - d/m/f/x | Berlin | [link](https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786) | link dead | 2026-09-07 |
-| **Barclays** | Quantitative Analytics Associate Off Cycle Internship 2027 Singapore | Singapore | [link](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563) | link dead | 2026-09-07 |
-| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-09-07 |
-| **ASML** | Machine Learning Algo Intern - internship | Shenzhen | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Shenzhen-China/ML-algo-intern--internship-_J-00340492-1) | link dead | 2026-09-07 |
+| **Microsoft** | Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities | Cairo | [link](https://apply.careers.microsoft.com/careers/job/1970393556866895) | link dead | 2026-09-08 |
+| **Esri** | Software Engineering Internship - Survey123 | Melbourne | [link](https://www.esri.com/careers/5204996007?gh_jid=5204996007) | link dead | 2026-09-08 |
+| **Thales** | Software Engineer Intern - Middleware - IBS | Singapore | [link](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782) | link dead | 2026-09-08 |
+| **GE HealthCare** | Software Engineer Intern | Warsaw | [link](https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Krakow/Software-Engineer-Intern_R4040613) | link dead | 2026-09-08 |
+| **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-09-08 |
+| **Mactores** | Generative AI Engineer - Intern | Mumbai | [link](https://jobs.lever.co/mactores/6ba73d45-b772-455b-92d2-b42544b3f729) | link dead | 2026-09-08 |
+| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | London | [link](https://careers-sig.icims.com/jobs/11005/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-09-08 |
+| **Susquehanna International Group** | Quantitative Research Internship: Summer 2027 | London | [link](https://careers-sig.icims.com/jobs/11007/quantitative-research-internship%3a-summer-2027/job) | link dead | 2026-09-08 |
+| **Mercedes-Benz Tech Innovation** | Intern AI & Data Engineering - d/m/f/x | Berlin | [link](https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786) | link dead | 2026-09-08 |
+| **Barclays** | Quantitative Analytics Associate Off Cycle Internship 2027 Singapore | Singapore | [link](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563) | link dead | 2026-09-08 |
+| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-09-08 |
+| **ASML** | Machine Learning Algo Intern - internship | Shenzhen | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Shenzhen-China/ML-algo-intern--internship-_J-00340492-1) | link dead | 2026-09-08 |
 | **HP** | College Intern - Data Analytics in Supply Chain | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4036) | link dead | 2026-09-05 |
 | **Susquehanna International Group** | Quantitative Systematic Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10841/quantitative-systematic-trading-internship%3a-summer-2027/job) | link dead | 2026-09-05 |
 | **Xsolla** | AI-First Engineering Intern | Kuala Lumpur | [link](https://jobs.lever.co/xsolla/09161ef0-8266-4de5-9017-fd34a29c3a3d) | link dead | 2026-09-05 |
