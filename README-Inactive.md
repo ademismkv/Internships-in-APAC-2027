@@ -1,21 +1,24 @@
 # Closed / Archived Roles 🔒
 
-Roles no longer active (284). Kept for reference; never deleted.
+Roles no longer active (285). Kept for reference; never deleted.
 
 | Company | Role | Location | Link | Closed because | Last seen |
 | --- | --- | --- | --- | --- | --- |
-| **Microsoft** | Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities | Cairo | [link](https://apply.careers.microsoft.com/careers/job/1970393556866895) | link dead | 2026-09-08 |
-| **Esri** | Software Engineering Internship - Survey123 | Melbourne | [link](https://www.esri.com/careers/5204996007?gh_jid=5204996007) | link dead | 2026-09-08 |
-| **Thales** | Software Engineer Intern - Middleware - IBS | Singapore | [link](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782) | link dead | 2026-09-08 |
-| **GE HealthCare** | Software Engineer Intern | Warsaw | [link](https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Krakow/Software-Engineer-Intern_R4040613) | link dead | 2026-09-08 |
-| **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-09-08 |
-| **Mactores** | Generative AI Engineer - Intern | Mumbai | [link](https://jobs.lever.co/mactores/6ba73d45-b772-455b-92d2-b42544b3f729) | link dead | 2026-09-08 |
+| **Microsoft** | Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities | Cairo | [link](https://apply.careers.microsoft.com/careers/job/1970393556866895) | link dead | 2026-09-09 |
+| **Esri** | Software Engineering Internship - Survey123 | Melbourne | [link](https://www.esri.com/careers/5204996007?gh_jid=5204996007) | link dead | 2026-09-09 |
+| **Thales** | Software Engineer Intern - Middleware - IBS | Singapore | [link](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782) | link dead | 2026-09-09 |
+| **GE HealthCare** | Software Engineer Intern | Warsaw | [link](https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Krakow/Software-Engineer-Intern_R4040613) | link dead | 2026-09-09 |
+| **Meta** | Research Scientist Intern - Photorealistic Telepresence - PhD | London | [link](https://www.metacareers.com/jobs/924149567345400) | link dead | 2026-09-09 |
+| **Optiver** | Quantitative Trading Internship - Singapore - 2027 | Singapore | [link](https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002) | link dead | 2026-09-09 |
+| **Mactores** | Generative AI Engineer - Intern | Mumbai | [link](https://jobs.lever.co/mactores/6ba73d45-b772-455b-92d2-b42544b3f729) | link dead | 2026-09-09 |
+| **Susquehanna International Group** | Quantitative Research Internship: Summer 2027 | London | [link](https://careers-sig.icims.com/jobs/11007/quantitative-research-internship%3a-summer-2027/job) | link dead | 2026-09-09 |
+| **Mercedes-Benz Tech Innovation** | Intern AI & Data Engineering - d/m/f/x | Berlin | [link](https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786) | link dead | 2026-09-09 |
+| **Barclays** | Quantitative Analytics Associate Off Cycle Internship 2027 Singapore | Singapore | [link](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563) | link dead | 2026-09-09 |
+| **ZEISS** | Internship in Machine Learning - Visual Language - Action Models - f/m/x | Munich, Berlin | [link](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Mnchen/Internship-in-Machine-Learning--Visual-Language--Action--Models--f-m-x-_JR_1050685) | link dead | 2026-09-09 |
+| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-09-09 |
+| **ASML** | Machine Learning Algo Intern - internship | Shenzhen | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Shenzhen-China/ML-algo-intern--internship-_J-00340492-1) | link dead | 2026-09-09 |
 | **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | London | [link](https://careers-sig.icims.com/jobs/11005/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-09-08 |
-| **Susquehanna International Group** | Quantitative Research Internship: Summer 2027 | London | [link](https://careers-sig.icims.com/jobs/11007/quantitative-research-internship%3a-summer-2027/job) | link dead | 2026-09-08 |
-| **Mercedes-Benz Tech Innovation** | Intern AI & Data Engineering - d/m/f/x | Berlin | [link](https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786) | link dead | 2026-09-08 |
-| **Barclays** | Quantitative Analytics Associate Off Cycle Internship 2027 Singapore | Singapore | [link](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563) | link dead | 2026-09-08 |
-| **Susquehanna International Group** | Quantitative Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) | link dead | 2026-09-08 |
-| **ASML** | Machine Learning Algo Intern - internship | Shenzhen | [link](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Shenzhen-China/ML-algo-intern--internship-_J-00340492-1) | link dead | 2026-09-08 |
+| **Revantage** | Data Management - Intern Data Science - Internship - 6 Months | Luxembourg | [link](https://careerseu-revantage.icims.com/jobs/6972/data-management%2c-intern-data-science---internship-%286-months%29/job) | link dead | 2026-09-08 |
 | **HP** | College Intern - Data Analytics in Supply Chain | Singapore | [link](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4036) | link dead | 2026-09-05 |
 | **Susquehanna International Group** | Quantitative Systematic Trading Internship: Summer 2027 | Dublin | [link](https://careers-sig.icims.com/jobs/10841/quantitative-systematic-trading-internship%3a-summer-2027/job) | link dead | 2026-09-05 |
 | **Xsolla** | AI-First Engineering Intern | Kuala Lumpur | [link](https://jobs.lever.co/xsolla/09161ef0-8266-4de5-9017-fd34a29c3a3d) | link dead | 2026-09-05 |
@@ -78,7 +81,6 @@ Roles no longer active (284). Kept for reference; never deleted.
 | **Enterpret** | Backend - Onsite Software Engineering Intern | Bengaluru | [link](https://job-boards.greenhouse.io/enterpret/jobs/7847134003) | link dead | 2026-09-02 |
 | **Hewlett Packard Enterprise** | Backend Intern | Tel Aviv | [link](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Herzliya-Israel/Backend-Intern_1211019-1) | link dead | 2026-09-02 |
 | **Motorola Solutions** | Intern Software Developer - C++ | Warsaw | [link](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Krakow-Poland/Intern-Software-Developer--C---_R66285) | link dead | 2026-09-02 |
-| **Optiver** | Quantitative Trading Internship - Singapore - 2027 | Singapore | [link](https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002) | link dead | 2026-09-02 |
 | **Xsolla** | AI-First Engineering Intern- shanghai | Shanghai | [link](https://jobs.lever.co/xsolla/1c60d455-ff66-4eaa-97b8-743d0d6e79d1) | link dead | 2026-09-02 |
 | **ABB** | Sourcing Data Analyst Intern | Warsaw | [link](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Krakow-Lesser-Poland-Poland/Intern-in-Global-IS-Sourcing-Team_JR00041420-1) | link dead | 2026-09-02 |
 | **Xsolla** | AI-First Engineering Intern | Beijing | [link](https://jobs.lever.co/xsolla/252b30e5-ce58-4a32-88b3-07ee83d06e67) | link dead | 2026-09-02 |
@@ -157,7 +159,6 @@ Roles no longer active (284). Kept for reference; never deleted.
 | **GeoComply** | Software Engineer Intern - Fullstack | Ho Chi Minh City | [link](https://jobs.lever.co/geocomply-2/4bc3f323-73e1-4338-943c-33653b305e26) | link dead | 2026-08-25 |
 | **Roche** | AI Communication Intern | Shanghai | [link](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Shanghai/AI-Communication-Intern_202608-120654) | link dead | 2026-08-25 |
 | **Airbus** | Internship - d/f/m in AI for Functional Avionics | Berlin | [link](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--in-AI-for-Functional-Avionics_JR10417809) | link dead | 2026-08-25 |
-| **ZEISS** | Internship in Machine Learning - Visual Language - Action Models - f/m/x | Munich, Berlin | [link](https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Mnchen/Internship-in-Machine-Learning--Visual-Language--Action--Models--f-m-x-_JR_1050685) | link dead | 2026-08-25 |
 | **Bosch** | EDA Intern for Embedded Software | Hanoi, Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143758952--eda-intern-for-embedded-software?oga=true) | link dead | 2026-08-25 |
 | **Philips** | Internship: Financial Data Analyst | Amsterdam | [link](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Financial-Data-Analyst_583491) | link dead | 2026-08-25 |
 | **Bosch** | EAF AI Engineer Intern - 6-month fulltime Internship | Ho Chi Minh City | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143977589--eaf-ai-engineer-intern-6-month-fulltime-internship-?oga=true) | link dead | 2026-08-25 |
